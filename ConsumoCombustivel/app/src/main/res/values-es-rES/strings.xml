@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumo de combustible</string>
+    <string name="txt_preco_litro_gasolina">Precio del litro de la gasolina (en Brasil): R$</string>
+    <string name="txt_preco_litro_alcool">Precio del litro del etanol (en Brasil): R$</string>
+    <string name="txt_resultado_combustivel" />
+    <string name="txt_resultado_combustivel_1">Gasolina</string>
+    <string name="txt_resultado_combustivel_2">Etanol</string>
+    <string name="txt_titulo_declaracao">Es mejor usar</string>
+</resources>

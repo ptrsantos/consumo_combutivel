@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fuel consumption</string>
+    <string name="txt_preco_litro_gasolina">Price of the liter of gasoline (in Brazil): R$</string>
+    <string name="txt_preco_litro_alcool">Price of the liter of ethanol (in Brazil): R$</string>
+    <string name="txt_resultado_combustivel" />
+    <string name="txt_resultado_combustivel_1">Gasoline</string>
+    <string name="txt_resultado_combustivel_2">Ethanol</string>
+    <string name="txt_titulo_declaracao">It is better to use</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumo de combustivel</string>
+    <string name="txt_preco_litro_gasolina">Preço do litro da gasolina: R$</string>
+    <string name="txt_preco_litro_alcool">Preço do litro do etanol: R$</string>
+    <string name="txt_resultado_combustivel" />
+    <string name="txt_resultado_combustivel_1">Gasolina</string>
+    <string name="txt_resultado_combustivel_2">Etanol</string>
+    <string name="txt_titulo_declaracao">É melhor usar</string>
+</resources>

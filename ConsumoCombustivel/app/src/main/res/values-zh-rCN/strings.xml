@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">油耗</string>
+    <string name="txt_preco_litro_gasolina">汽油价格（巴西）: R$</string>
+    <string name="txt_preco_litro_alcool">乙醇的价格（巴西）: R$</string>
+    <string name="txt_resultado_combustivel" />
+    <string name="txt_resultado_combustivel_1">汽油</string>
+    <string name="txt_resultado_combustivel_2">乙醇</string>
+    <string name="txt_titulo_declaracao">最好使用</string>
+</resources>
